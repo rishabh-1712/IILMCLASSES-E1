@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WELCOME TO BIHAR</title>
+</head>
+<body>
+    <!-- for heading we use h tag-->
+    <h1>chai bar</h1>
+    <h2>sutta bar</h2>
+    <h3>chai bar</h3>
+    <h4>chai bar</h4>
+    <h5>chai bar</h5>
+    <hr>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, quos architecto ad quas error nulla. Soluta minima dolor est similique, itaque in repudiandae possimus voluptatibus voluptate et consequatur tempora, nobis nisi odit aliquam pariatur voluptatum sequi vitae officia optio maiores. Commodi doloremque nostrum inventore officia debitis ullam iure quam aliquid saepe fugiat dicta dolorum accusamus doloribus vero ipsum, velit aspernatur quaerat quibusdam cupiditate aperiam deserunt! Nobis aliquam vero porro neque eos totam dolorem, perferendis incidunt facilis, natus fugiat atque voluptates harum dignissimos quos minus blanditiis saepe. Deserunt aliquam eaque eius architecto delectus sapiente 10 <sub>2</sub> minus hic 10 <sup>2</sup> perspiciatis <b>mollitia est?</b>  Ut, nobis.</p>
+    <hr>
+    <!--this is maggi receipe-->
+    <h2>SHOPPING LIST</h2>
+    <ul >
+        <li>milk</li>
+        <li>egg</li>
+        <li>fruit</li>
+        <li>veg</li>
+        <li>non veg</li>
+    </ul>
+    <hr>
+    <h2>MAGGI RECEIPE</h2>
+    <ol type="A">
+        <li>boil</li>
+        <li>break nodle</li>
+        <li>add maggi</li>
+         <ul>
+                <li>tomato</li>
+                <li>carrot</li>
+                <li>peas</li>
+         </ul>
+        <li>cook 5 min</li>
+    </ol>
+    <hr>
+    <a href="https://www.google.com" target="_blank">Google</a>
+    <a href="page2.html">Page 2</a>
+    <a href="http://" target="_blank" rel="noopener noreferrer"></a>
+    <a href="https://docs.google.com/document/d/1TgOswmUBj_onPKruWV0eHFbCGkEGiw8juH9jNll-h28/edit?pli=1" target="_blank" rel="noopener noreferrer"><h2>NOTES</h2></a>
+    <a href="Notes/Atomic habits ( PDFDrive ).pdf" target="_blank">Atomic habits</a>
+    <img src="img/img.jpg.jpg" alt="this is an image" width="250" height="200">
+    <hr>
+    <video src="video/video.mp4.mp4" width="200" controls loop muted poster="img/img.jpg.jpg"></video>
+    <hr>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/2QR11oDukn4?si=vJexRDuEcCZ_Lnre" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe src="htttps://www.facebook.com" frameborder="0" width="350"></iframe>
+    <hr>
+    <table>
+        <thead>
+        <tr>
+            <th>Subject</th>
+            <th>Theory</th>
+            <th>Practical</th>
+            <th>Total marks</th>
+            <th>Grades</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Data Science</td>
+            <td>75</td>
+            <td>41</td>
+            <td>99</td>
+            <td>98</td>
+
+        </tr>
+        <tr>
+            <td>DSA</td>
+            <td>100</td>
+            <td>45</td>
+            <td>13</td>
+            <td>99</td>
+        </tr>
+        <tr>
+            <td>OB</td>
+            <td>100</td>
+            <td>99</td>
+            <td>12</td>
+            <td>92</td>
+        </tr>
+        <tr>
+            <td>Math</td>
+            <td>100</td>
+            <td>99</td>
+            <td>98</td>
+            <td>97</td>
+        </tr>
+        <tr>
+            <td>JAVA</td>
+            <td>46</td>
+            <td>47</td>
+            <td>67</td>
+            <td>98</td>
+            
+        </tr>
+    </tbody>
+    <tfoot>
+        <th colspan="5">Result:Pass</th>
+    </tfoot>
+    </table>
+
+</body>
+</html>
